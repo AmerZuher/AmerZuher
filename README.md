@@ -1,4 +1,6 @@
-![HelloWorldSeytonicGIF](https://github.com/AmerZuher/AmerZuher/assets/80674857/9ce8c5be-4278-41ef-84ef-2a6c5c930f41) 
+<div align="center">
+  <img src="https://github.com/AmerZuher/AmerZuher/assets/80674857/9ce8c5be-4278-41ef-84ef-2a6c5c930f41" width="600" height="300"/>
+</div>
 
 # About Me:
 I'm an AI student specializing in machine learning (ML), deep learning (DL), and computer vision. I've worked on various projects, focusing on creating AI models and handling image processing tasks.
