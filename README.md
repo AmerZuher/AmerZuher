@@ -61,8 +61,6 @@ I'm an AI student specializing in machine learning (ML), deep learning (DL), and
    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
 </div>
 
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmerZuher&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 ### Programming Languages Used :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmerZuher&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
