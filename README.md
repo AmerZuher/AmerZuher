@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/AmerZuher/AmerZuher/assets/80674857/9ce8c5be-4278-41ef-84ef-2a6c5c930f41" width="600" height="300"/>
+  <img src="https://github.com/AmerZuher/AmerZuher/assets/80674857/9ce8c5be-4278-41ef-84ef-2a6c5c930f41" width="400" height="200"/>
 </div>
 
 # About Me:
