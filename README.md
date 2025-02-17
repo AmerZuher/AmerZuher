@@ -3,21 +3,30 @@
 </div>
 
 # About Me:
-I'm an AI student specializing in machine learning (ML), deep learning (DL), and computer vision. I've worked on various projects, focusing on creating AI models and handling image processing tasks.
+AI professional with expertise in machine learning, deep learning, and computer vision. Experienced in developing, deploying, and optimizing AI models to solve real-world challenges
 
 
 # Qualifications:
 
-#### Education: Currently pursuing a degree in Artificial Intelligence (AI) with a focus on Machine Learning (ML) and Deep Learning (DL).
-
+#### Education: 
+Bachelor’s Degree in Computer Science (AI & Data Science)
+Tafila Technical University, Jordan | GPA: 3.05 | Graduation: June 2024
 ### Technical Skills:
 
-1. Proficient in creating and **deploying AI models**.
-2. Experienced in **image processing** techniques.
-3. Skilled in **managing databases** and working with **big data platforms such as Apache Spark and Hadoop**.
-4. Familiarity with **Linux** operating systems for development and deployment.
-5. Competent in web development, capable of **building functional web pages**.
-6. Knowledgeable in **Natural Language Processing (NLP)** and **Information Retrieval (IR)**.
+Artificial Intelligence & Machine Learning
+ 1. Modelcreation, training, optimization, and deployment.
+ 2. DeepLearning frameworks: TensorFlow, Keras, PyTorch.
+ 3. NaturalLanguage Processing (NLP): Experience with SpaCy & Pegasus.
+ 4. GraphicsProcessing: Techniques for graphics analysis.
+    
+WebDevelopment & Back-end
+ 1. FullStack Development: React, Next.js, Node.js.
+ 2. APIDevelopment: Experience with Flask.
+ 3. Databases: SQL (PostgreSQL) and NoSQL (MongoDB, Redis).
+
+Automation & DevOps
+ 1. Scripting and task automation using Python and Bash.
+ 2. Containerization & Orchestration: Docker, Kubernetes
 
 
 ## Project Experience
@@ -29,10 +38,10 @@ I'm an AI student specializing in machine learning (ML), deep learning (DL), and
 
 
 ## Soft Skills:
-1. Strong **problem-solving** skills, adept at finding innovative solutions.
-2. Excellent **communication and teamwork abilities**, demonstrated through collaboration on projects.
-3. **Self-motivated** with a passion for continuous learning and professional development.
-4. **Detail-oriented** approach to tasks, ensuring accuracy and quality in all endeavors.
+ 1. Strong problem-solving abilities
+ 2. Excellent communication and teamwork skills
+ 3. Self-motivated and eager to learn
+ 4. Detail-oriented with a focus on quality
 
 
 ## Professional Development:
