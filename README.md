@@ -21,7 +21,6 @@
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AmerZuher&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work" />
   </p>
 </div>
 
