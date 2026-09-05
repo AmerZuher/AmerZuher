@@ -1,144 +1,131 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZ5MThtdWw3dTkxYncwaWMzMTBweTFjdHQ5MHR3djAzeTdobWMweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif" width="600" alt="banner" />
 
-  <h1>Hi there, I'm Amer Zuher Alriyahi! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=AMER%20ZUHER%20ALRIYAHI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20|%20Machine%20Learning%20|%20Generative%20AI%20Architect&descSize=22&descAlignY=55" width="100%"/>
+
+<br>
+
+<div align="left">
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+Software+Engineer;Machine+Learning+Specialist;Generative+AI+Enthusiast" alt="Typing SVG" />
+  <!-- Image floated to the left -->
+  <img align="left" src="https://github.com/AmerZuher.png" width="220" style="border-radius: 50%; border: 5px solid #58A6FF; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alriyahi" />
+  
+  <!-- Content wrapping on the right -->
+  <a href="https://amer-alreyahi.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=600&lines=AI+Software+Engineer;Machine+Learning+Specialist;Generative+AI+Architect;Full-Stack+Developer" alt="Typing SVG" />
   </a>
-  <br />
   
-  <p>
-    <b>Passionate about solving real-world challenges through advanced AI solutions, full-stack integration, and secure, on-premises deployments.</b>
+  <p style="font-size: 18px; margin-top: 10px;">
+    <b>Transforming complex challenges</b> into elegant solutions through advanced <b>AI pipelines</b>, full-stack ecosystems, and secure, on-premises deployments.
   </p>
-
-  <p align="center">
-    <!-- Contact Links -->
-    <a href="https://www.linkedin.com/in/amer-alriyahi-568a7a286/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:amerzuher@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
+  <div>
+    <a href="https://amer-alreyahi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🚀_PORTFOLIO_WEBSITE-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/amer-alriyahi-568a7a286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:amerzuher@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-  </p>
+  </div>
   
-  <p align="center">
+  <br>
+  
+  <div>
     <img src="https://komarev.com/ghpvc/?username=AmerZuher&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
-  </p>
-</div>
-
----
-
-## 🎯 Professional Summary
-
-AI Software Engineer with a strong foundation in **machine learning, deep learning, and workflow automation**. Experienced in building, optimizing, and deploying AI models and orchestrating complex automation pipelines. I thrive on exploring Generative AI, Agentic Workflows, and developing scalable, state-of-the-art AI systems from top to bottom!
-
----
-
-## ⚡ Current Status
-- 🔭 I'm currently building **Advanced AI & RAG pipelines**
-- 🌱 I'm currently diving deeper into **Agentic Workflows** and **Temporal SDK**
-- 👯 I'm looking to collaborate on **Open Source ML & Generative AI projects**
-- 💬 Ask me about **Computer Vision, Deep Learning, and Full-Stack Integration**
-
----
-
-## 💡 What I Do & Technical Expertise
-
-I have hands-on experience developing cutting-edge models, designing scalable web applications, and deploying robust data infrastructures. 
-
-- 🧠 **Artificial Intelligence & Machine Learning:** Model creation, training, optimization, and deployment. Deep expertise in **Generative AI, LLM Systems, RAG, and Agentic Workflows**. Extensive work with NLP (SpaCy, Pegasus) and Computer Vision / Graphics Processing.
-- ⚙️ **Deep Learning & Tooling:** TensorFlow, PyTorch, Keras, OpenCV, LangChain, LlamaIndex, Hugging Face, MCP Servers. 
-- 🌐 **Web Development & Back-end:** Full Stack Development via **React, React Native, Next.js**, and **Node.js**. API Development with Python (**FastAPI, Flask**) and Kotlin.
-- 🗄️ **Databases:** Relational (SQL, PostgreSQL, MySQL, Oracle) and Non-Relational (MongoDB, Vector DBs, Redis caching). 
-- 🛠️ **Automation & DevOps:** Scripting and orchestrating task automation using Python, Bash, **n8n**, and **Temporal SDK**. Specializing in Containerization & Orchestration via **Docker**, **Kubernetes**, and AWS in Linux/Ubuntu environments.
-- 📊 **Data Science & Big Data:** Leveraging Jupyter, Hadoop, Apache Spark, and SPSS for processing and analyzing large datasets.
-
----
-
-## 💻 Languages and Tools
-
-<div align="center">
-
-  <h4>Languages & Core Development</h4>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash Scripting" alt="Bash" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40"/>
-  </div>
-
-  <h4>AI, ML & Data Science</h4>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" title="Apache Spark" alt="Spark" width="40"/>
-    <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat&logoColor=black" title="Hugging Face" alt="Hugging Face" height="28"/>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" title="LangChain" alt="LangChain" height="28"/>
-  </div>
-
-  <h4>Web Frameworks & Databases</h4>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="Material UI" alt="MUI" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40"/>
-  </div>
-
-  <h4>DevOps, Cloud & Other Tech</h4>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="K8s" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40"/>
   </div>
 
 </div>
 
----
-
-## 🎓 Education & Certifications
-
-**Bachelor's Degree in Computer Science (AI & Data Science)**  
-*Tafila Technical University, Jordan | GPA: 3.05 / 4.0 | Graduation: June 2024*
-
-### 🏆 Continuous Learning Tracks
-Active self-directed development in Advanced ML, Model Deployment, and agent orchestration.
-
-- **AI & Machine Learning:** Machine Learning Specialization, Deep Learning Specialization, Advanced Machine Learning, TensorFlow & PyTorch, Computer Vision with TensorFlow, OpenCV & SpaCy
-- **Backend & Deployment:** ML Model Deployment, Python Flask
-- **DevOps & Cloud:** Docker Certified Associate, Kubernetes Basics, IBM Full-Stack
-- **Data & Programming:** SQL for Data Science, Bash Scripting Tutorial
+<!-- This clears the float so the rest of your profile doesn't wrap around the image -->
+<br clear="both" />
+<br />
 
 ---
 
-## 📈 GitHub Stats
+### 🎯 Professional Summary
+
+AI Software Engineer and Full-Stack Architect with a strong foundation in **Machine Learning, Generative AI, and Data Science**. Experienced in building secure, high-performance web applications and designing complete end-to-end systems. I thrive on exploring **Agentic Workflows**, **Local LLMs**, and developing scalable, state-of-the-art infrastructure from top to bottom.
+
+**[👉 Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!](https://amer-alreyahi.vercel.app)**
+
+---
+
+## ⚡ Current Operations
+> Exploring the intersection of **Agentic Workflows**, **Local LLMs**, and **Glassmorphic UI Design**.
+
+- 🔭 **Architecting:** Advanced RAG pipelines and evaluating local LLM deployments (like Qwen3) for optimized on-premises coding assistance.
+- 🎨 **Designing:** Mobile-first, sleek web interfaces utilizing React, Vite, and Tailwind CSS.
+- 🌱 **Learning:** Deepening expertise in Temporal SDK and orchestrating complex container management systems via Docker Compose.
+- 💬 **Ask me about:** Computer Vision, LLM optimization, and bridging the gap between heavy ML backends and stunning frontend experiences.
+
+<br />
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmerZuher&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmerZuher&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" />
+  
+  ### AI, Machine Learning & Data Science
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,r,scikitlearn&theme=dark" alt="AI & ML Stack" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=c&logoColor=white" alt="LlamaIndex"/>
+  
+  <br /><br />
+
+  ### Web Frameworks & Frontend
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css&theme=dark" alt="Frontend Stack" />
+  </a>
+
+  <br /><br />
+
+  ### Backend, Databases & APIs
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,sqlite,mongodb,supabase,redis&theme=dark" alt="Backend Stack" />
+  </a>
+
+  <br /><br />
+
+  ### DevOps, Cloud & Architecture
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu,bash,githubactions,linux,nginx&theme=dark" alt="DevOps Stack" />
+  </a>
+
 </div>
 
----
+<br />
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <h3>Thanks for dropping by! 🙏</h3>
+  <table>
+    <tr>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=AmerZuher&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+    </tr>
+  </table>
+
+</div>
+
+<br />
+
+## 🎓 Academic & Professional Foundations
+
+**B.Sc. in Computer Science (AI & Data Science)**  
+*Tafila Technical University, Jordan* | Graduation: June 2024
+
+**🏆 Specialized Certifications & Continuous Learning:**
+*   **Deep Learning & AI:** Machine Learning Specialization, Deep Learning Specialization, Computer Vision (TensorFlow/OpenCV).
+*   **Engineering & DevOps:** ML Model Deployment, Docker Certified Associate, Kubernetes Basics, IBM Full-Stack.
+*   **Data Architecture:** SQL for Data Science, Advanced Vector DB Configurations.
+
+---
+<div align="center">
+  <i>"Building the future of automation, one intelligent system at a time."</i><br><br>
+  
+  <a href="https://amer-alreyahi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20CHECK%20OUT%20MY%20PORTFOLIO%20WEBSITE%20-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio Footer Button" height="40"/>
+  </a>
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
 </div>
