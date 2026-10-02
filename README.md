@@ -7,7 +7,7 @@
 <div align="left">
   
   <!-- Image floated to the left -->
-  <img align="left" src="https://github.com/AmerZuher.png" width="220" style="border-radius: 50%; border: 5px solid #58A6FF; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alriyahi" />
+  <img align="left" src="https://github.com/AmerAlreyahi.png" width="220" style="border-radius: 50%; border: 5px solid #58A6FF; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alriyahi" />
   
   <!-- Content wrapping on the right -->
   <a href="https://amer-alreyahi.vercel.app">
@@ -21,14 +21,14 @@
   <div>
     <a href="https://amer-alreyahi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🚀_PORTFOLIO_WEBSITE-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/amer-alriyahi-568a7a286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:amerzuher@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:AmerAlreyahi@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
   </div>
   
   <br>
   
   <div>
-    <img src="https://komarev.com/ghpvc/?username=AmerZuher&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=AmerAlreyahi&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
   </div>
 
 </div>
@@ -100,7 +100,7 @@ AI Software Engineer and Full-Stack Architect with a strong foundation in **Mach
 <div align="center">
   <table>
     <tr>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AmerZuher&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=AmerAlreyahi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
     </tr>
   </table>
 
