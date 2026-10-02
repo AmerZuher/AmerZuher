@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=AMER%20ZUHER%20ALRIYAHI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20|%20Machine%20Learning%20|%20Generative%20AI%20Architect&descSize=22&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=AMER%20ZUHER%20ALRIYAHI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br>
 
@@ -11,12 +11,12 @@
   
   <!-- Content wrapping on the right -->
   <a href="https://amer-alreyahi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=600&lines=AI+Software+Engineer;Machine+Learning+Specialist;Generative+AI+Architect;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=650&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
   </a>
   <br>
 
   <p style="font-size: 18px; margin-top: 10px;">
-    <b>Transforming complex challenges</b> into elegant solutions through advanced <b>AI pipelines</b>, full-stack ecosystems, and secure, on-premises deployments.
+    <b>Transforming complex challenges</b> into elegant solutions through advanced <b>AI pipelines</b>, project portfolio management architectures, and enterprise-grade deployments.
   </p>
   <br>
 
@@ -40,20 +40,20 @@
 
 ### 🎯 Professional Summary
 
-AI Software Engineer and Full-Stack Architect with a strong foundation in **Machine Learning, Generative AI, and Data Science**. Experienced in building secure, high-performance web applications and designing complete end-to-end systems. I thrive on exploring **Agentic Workflows**, **Local LLMs**, and developing scalable, state-of-the-art infrastructure from top to bottom.
+Bridging Advanced Engineering & Enterprise Strategy True innovation lives at the intersection of deep tech and organizational strategy. As an AI Software Engineer and certified Broadcom Partner Consultant, I bridge cutting-edge technology and real-world business execution—designing, training, and deploying sophisticated AI systems while structuring the portfolio management, workflows, and governance needed to scale them. Because most tech initiatives fail in execution, not intelligence, my dual perspective ensures every model delivers measurable ROI. Whether engineering autonomous AI solutions or structuring complex enterprise portfolios, I translate technical potential into sustainable business value.
+
 
 **[👉 Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!](https://amer-alreyahi.vercel.app)**
 
 ---
 
 ## ⚡ Current Operations
-> Exploring the intersection of **Agentic Workflows**, **Local LLMs**, and **Glassmorphic UI Design**.
+> Driving enterprise transformation at the intersection of **Agentic AI Architecture**, **Value Stream Orchestration**, and **Project Portfolio Management (PPM)**.
 
-- 🔭 **Architecting:** Advanced RAG pipelines and evaluating local LLM deployments (like Qwen3) for optimized on-premises coding assistance.
-- 🎨 **Designing:** Mobile-first, sleek web interfaces utilizing React, Vite, and Tailwind CSS.
-- 🌱 **Learning:** Deepening expertise in Temporal SDK and orchestrating complex container management systems via Docker Compose.
-- 💬 **Ask me about:** Computer Vision, LLM optimization, and bridging the gap between heavy ML backends and stunning frontend experiences.
-
+- 🔭 **Engineering:** Agentic AI frameworks and custom Model Context Protocol (MCP) servers to seamlessly extend enterprise ecosystems (Clarity PPM, Automic Automation, and ITSM).
+- ⚙️ **Deploying:** High-performing, containerized full-stack platforms—including ZerOS and Stratogen—built with TypeScript, Vite, Python, and Docker.
+- 🚀 **Orchestrating:** Resilient, multi-system workflows and enterprise data pipelines using Temporal SDK and Broadcom ValueOps architectures.
+- 💬 **Consulting on:** Scaling Generative AI & RAG in regulated environments, AI governance, enterprise digital transformation, and aligning machine learning capabilities with business ROI.
 <br />
 
 ## 🛠️ Technical Arsenal
@@ -112,11 +112,10 @@ AI Software Engineer and Full-Stack Architect with a strong foundation in **Mach
 **B.Sc. in Computer Science (AI & Data Science)**  
 *Tafila Technical University, Jordan* | Graduation: June 2024
 
-**🏆 Specialized Certifications & Continuous Learning:**
-*   **Deep Learning & AI:** Machine Learning Specialization, Deep Learning Specialization, Computer Vision (TensorFlow/OpenCV).
-*   **Engineering & DevOps:** ML Model Deployment, Docker Certified Associate, Kubernetes Basics, IBM Full-Stack.
-*   **Data Architecture:** SQL for Data Science, Advanced Vector DB Configurations.
-
+**🏆 Specialized Certifications & Technical Mastery:**
+*   **Enterprise Portfolio & Automation:** Broadcom Certified Partner (Clarity PPM Implementation & Sales), ValueOps VSM Agile Metrics & Strategy, Workflow & Data Orchestration (Automic Automation).
+*   **Generative AI & Agentic Systems:** Microsoft Intro to Generative AI & Agents, Deep Learning, NLP & Computer Vision (TensorFlow/PyTorch), Advanced RAG & MCP Architecture.
+*   **DevOps, Infrastructure & Security:** Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials, Kubernetes, Vector DB Configurations & Linux System Engineering.
 ---
 <div align="center">
   <i>"Building the future of automation, one intelligent system at a time."</i><br><br>
