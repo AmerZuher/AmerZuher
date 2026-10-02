@@ -13,23 +13,22 @@
   <a href="https://amer-alreyahi.vercel.app">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=600&lines=AI+Software+Engineer;Machine+Learning+Specialist;Generative+AI+Architect;Full-Stack+Developer" alt="Typing SVG" />
   </a>
-  
+  <br>
+
   <p style="font-size: 18px; margin-top: 10px;">
     <b>Transforming complex challenges</b> into elegant solutions through advanced <b>AI pipelines</b>, full-stack ecosystems, and secure, on-premises deployments.
   </p>
-  
+  <br>
+
   <div>
-    <a href="https://amer-alreyahi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🚀_PORTFOLIO_WEBSITE-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/amer-alriyahi-568a7a286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:AmerAlreyahi@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://amer-alreyahi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🚀_PORTFOLIO_WEBSITE-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio" /></a>
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
   </div>
   
   <br>
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=AmerAlreyahi&label=Profile%20views&color=58A6FF&style=flat" alt="Profile Views" />
-  </div>
+
 
 </div>
 
